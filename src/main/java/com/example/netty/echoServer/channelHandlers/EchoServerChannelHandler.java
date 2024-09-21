@@ -1,4 +1,4 @@
-package com.example.netty.channelHandlers;
+package com.example.netty.echoServer.channelHandlers;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
